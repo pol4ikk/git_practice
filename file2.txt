@@ -2,3 +2,4 @@ File 2 content
 Change 1
 Change 2
 First change to file2
+Second change to file2
